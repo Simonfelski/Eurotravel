@@ -22,6 +22,7 @@ const Destination = () => {
 		const randomPerson = translatorPeople[randomPersonIndex]
 		setRandomTranslatorPerson(randomPerson)
 	}, [translatorPeople]);
+	// after adding state to render random img from the array, useEffect breaks. Works only after refreshing the page, but doesnt have effect after clicking button "choose another destination"
 
 	return (
 		<div className="bg-[#f8f7ff] text-xl text-[black] font-bold p-5">
@@ -51,6 +52,7 @@ const Destination = () => {
 					<div>
 					<img src={`${randomTranslatorPerson.img}.png`} alt="Translator" className='py-5'/>
 					</div>
+					{/* here is an img thath should randomly change */}
 					<p className="pb-3 text-center">Useful sentences:</p>
 					<ul>
 						{Object.entries(selectedCountry.sentences).map(([sentence, translation]) => (
