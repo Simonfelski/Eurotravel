@@ -5,6 +5,14 @@ export default [
 		flag: '/assets/flags/albania.png',
 		capitalCity: 'Tirana',
 		language: 'Albanian',
+		facts: {
+			'Religion' : 'Islam, Christianity',
+			'Population' : 'Around 2,8 milion',
+			'Historical fact' : 'Albania is famous for its historical sites such as the ancient city of Butrint, and its hospitable people.',
+			'Most famous sport' : 'Football',
+			'Motto/expression' : 'You Albania, give me honor, give me the name Albanian.'
+		},
+		factsImg: '/assets/factsBook/factsBook.png',
 		famousPeople: 'Mother Teresa (humanitarian), Ismail Kadare (writer), Skanderbeg (military commander)',
 		peopleImg: '/assets/general/famousPerson.png',
 		food: 'Byrek, Tavë Kosi',
@@ -30,6 +38,14 @@ export default [
 		flag: '/assets/flags/andorra.png',
 		capitalCity: 'Andorra la Vella',
 		language: 'Catalan',
+		facts: {
+			'Religion' : 'Roman Catholicism',
+			'Population' : 'Around 77,000',
+			'Famous for' : 'Andorra is known for its unique co-principality status, with the President of France and the Bishop of Urgell in Spain serving as co-princes.',
+			'Most famous sport' : 'Skiing and snowboarding',
+			'Motto/expression' : 'United virtue is stronger.'
+		},
+		factsImg: '/assets/factsBook/factsBook.png',
 		famousPeople: 'Joan Enric Vives Sicília (Bishop of Urgell), Albert Salvadó (writer), Isabel Pantoja (singer)',
 		peopleImg: '/assets/general/famousPerson1.png',
 		food: 'Trinxat, Escudella',
@@ -55,6 +71,14 @@ export default [
 		flag: '/assets/flags/austria.png',
 		capitalCity: 'Vienna',
 		language: 'German',
+		facts: {
+			'Religion' : 'Christianity',
+			'Population' : 'Around 8.9 million',
+			'Famous for' : 'Austria is famous for its association with classical music and its significant contributions to the world of music.',
+			'Most famous sport' : 'Football, skiing',
+			'Motto/expression' : 'With united forces.'
+		},
+		factsImg: '/assets/factsBook/factsBook1.png',
 		famousPeople: 'Wolfgang Amadeus Mozart (composer), Sigmund Freud (psychologist), Maria Theresa (empress)',
 		peopleImg: '/assets/general/famousPerson2.png',
 		food: 'Wiener Schnitzel, Sachertorte',
@@ -80,6 +104,14 @@ export default [
 		flag: '/assets/flags/belarus.png',
 		capitalCity: 'Minsk',
 		language: 'Belarusian, Russian',
+		facts: {
+			'Religion' : 'Primarily Christianity',
+			'Population' : 'Around 9.4 million',
+			'Famous for' : 'Belarus is known for its historical sites, such as Mir Castle and Nesvizh Castle, which are UNESCO World Heritage sites.',
+			'Most famous sport' : 'Ice hockey, football',
+			'Motto/expression' : `Let's be Belarusians!`
+		},
+		factsImg: '/assets/factsBook/factsBook2.png',
 		famousPeople: 'Francysk Skaryna (scholar), Lee Harvey Oswald (assassin), Marc Chagall (artist)',
 		peopleImg: '/assets/general/famousPerson3.png',
 		food: 'Draniki, Machanka',
@@ -105,6 +137,14 @@ export default [
 		flag: '/assets/flags/belgium.png',
 		capitalCity: 'Brussels',
 		language: 'Dutch, French, German',
+		facts: {
+			'Religion' : 'Predominantly Christianity',
+			'Population' : 'Around 11.5 million',
+			'Famous for' : 'Belgian chocolate, waffles, beer, and being the headquarters of the European Union and NATO.',
+			'Most famous sport' : 'Football',
+			'Motto/expression' : `Unity Makes Strength.`
+		},
+		factsImg: '/assets/factsBook/factsBook3.png',
 		famousPeople: 'René Magritte (artist), Eddy Merckx (cyclist), Audrey Hepburn (actress)',
 		peopleImg: '/assets/general/famousPerson4.png',
 		food: 'Mussels with fries, Belgian waffles',
@@ -130,6 +170,14 @@ export default [
 		flag: '/assets/flags/bosnia.png',
 		capitalCity: 'Sarajevo',
 		language: 'Bosnian, Croatian, Serbian',
+		facts: {
+			'Religion' : 'Predominantly Islam, with significant Christian Orthodox and Catholic',
+			'Population' : 'Around 3.3 million',
+			'Famous for' : 'Famous for its rich cultural heritage, including its diverse mix of Ottoman, Austro-Hungarian, and Slavic influences.',
+			'Most famous sport' : 'Football',
+			'Motto/expression' : `Peace and Welfare.`
+		},
+		factsImg: '/assets/factsBook/factsBook.png',
 		famousPeople: 'Ivo Andrić (writer), Emir Kusturica (film director), Davor Šuker (footballer)',
 		peopleImg: '/assets/general/famousPerson.png',
 		food: 'Ćevapi, Burek',
@@ -155,6 +203,14 @@ export default [
 		flag: '/assets/flags/bulgaria.png',
 		capitalCity: 'Sofia',
 		language: 'Bulgarian',
+		facts: {
+			'Religion' : 'Predominantly Eastern Orthodox Christianity',
+			'Population' : 'Around 7 million',
+			'Famous for' : 'Famous for its ancient Thracian heritage.',
+			'Most famous sport' : 'Football',
+			'Motto/expression' : `Unity makes strength.`
+		},
+		factsImg: '/assets/factsBook/factsBook1.png',
 		famousPeople: 'Hristo Stoichkov (footballer), Grigor Dimitrov (tennis player), Christo (artist)',
 		peopleImg: '/assets/general/famousPerson1.png',
 		food: 'Banitsa, Shopska salad',
@@ -180,6 +236,14 @@ export default [
 		flag: '/assets/flags/croatia.png',
 		capitalCity: 'Zagreb',
 		language: 'Croatian',
+		facts: {
+			'Religion' : 'Predominantly Christianity',
+			'Population' : 'Around 4 million',
+			'Famous for' : 'Famous for its historic cities such as Dubrovnik and Split and beautiful national parks like Plitvice Lakes and Krka.',
+			'Most famous sport' : 'Football',
+			'Motto/expression' : `Together to a better future.`
+		},
+		factsImg: '/assets/factsBook/factsBook2.png',
 		famousPeople: 'Nikola Tesla (inventor), Luka Modrić (footballer), Ivan Meštrović (sculptor)',
 		peopleImg: '/assets/general/famousPerson2.png',
 		food: 'Čevapi, Peka',
@@ -204,6 +268,14 @@ export default [
 		country: 'Cyprus',
 		flag: '/assets/flags/cyprus.png',
 		capitalCity: 'Nicosia',
+		facts: {
+			'Religion' : 'Predominantly Greek Orthodox Christianity',
+			'Population' : 'Around 1.2 million',
+			'Famous for' : 'Famous for its beautiful beaches, and being the birthplace of Aphrodite, the ancient Greek goddess of love and beauty.',
+			'Most famous sport' : 'Football',
+			'Motto/expression' : `No official Motto/expression.`
+		},
+		factsImg: '/assets/factsBook/factsBook3.png',
 		language: 'Greek, Turkish',
 		famousPeople:
 			'Archbishop Makarios III (politician), Demetris Christofias (politician), Michalis Hatzigiannis (singer)',
@@ -231,6 +303,14 @@ export default [
 		flag: '/assets/flags/czech.png',
 		capitalCity: 'Prague',
 		language: 'Czech',
+		facts: {
+			'Religion' : 'Predominantly Christianity',
+			'Population' : 'Around 10.7 million',
+			'Famous for' : `Famous for its medieval castles, picturesque towns, and contributions to literature, music, and art. It's also famous for its beer brewing tradition, with Czech beer being renowned worldwide.`,
+			'Most famous sport' : 'Ice hockey',
+			'Motto/expression' : `Truth prevails.`
+		},
+		factsImg: '/assets/factsBook/factsBook.png',
 		famousPeople: 'Franz Kafka (writer), Antonín Dvořák (composer), Martina Navratilova (tennis player)',
 		peopleImg: '/assets/general/famousPerson4.png',
 		food: 'Svíčková, Trdelník',
@@ -256,6 +336,14 @@ export default [
 		flag: '/assets/flags/denmark.png',
 		capitalCity: 'Copenhagen',
 		language: 'Danish',
+		facts: {
+			'Religion' : 'Predominantly Christianity',
+			'Population' : 'Around 5.8 million',
+			'Famous for' : `Famous for its dairy products, pastries (like the Danish pastry), and the concept of "hygge," representing coziness and contentment.`,
+			'Most famous sport' : 'Football',
+			'Motto/expression' : `God's help, the people's love, Denmark's strength.`
+		},
+		factsImg: '/assets/factsBook/factsBook1.png',
 		famousPeople: 'Hans Christian Andersen (writer), Niels Bohr (physicist), Caroline Wozniacki (tennis player)',
 		peopleImg: '/assets/general/famousPerson.png',
 		food: 'Smørrebrød, Frikadeller',
@@ -281,6 +369,14 @@ export default [
 		flag: '/assets/flags/estonia.png',
 		capitalCity: 'Tallinn',
 		language: 'Estonian',
+		facts: {
+			'Religion' : 'Predominantly Christianity',
+			'Population' : 'Around 1.3 million',
+			'Famous for' : `Estonia is known for its advancements in technology, particularly in the field of digital governance (e-governance).`,
+			'Most famous sport' : 'Basketball and football',
+			'Motto/expression' : `God is with us`
+		},
+		factsImg: '/assets/factsBook/factsBook2.png',
 		famousPeople: 'Arvo Pärt (composer), Lennart Meri (politician), Kristina Šmigun-Vähi (skier)',
 		peopleImg: '/assets/general/famousPerson1.png',
 		food: 'Kama, Verivorst',
@@ -306,6 +402,14 @@ export default [
 		flag: '/assets/flags/finland.png',
 		capitalCity: 'Helsinki',
 		language: 'Finnish, Swedish',
+		facts: {
+			'Religion' : 'Predominantly Christianity, with Lutheran Protestantism being the largest denomination',
+			'Population' : 'Around 5.5 million',
+			'Famous for' : `Finland is known for its high-quality education system, technological innovations (Nokia), and design, including Marimekko and Alvar Aalto's architecture.`,
+			'Most famous sport' : 'Ice Hockey',
+			'Motto/expression' : `Finland for Finns`
+		},
+		factsImg: '/assets/factsBook/factsBook3.png',
 		famousPeople: 'Jean Sibelius (composer), Mika Häkkinen (racing driver), Linus Torvalds (computer programmer)',
 		peopleImg: '/assets/general/famousPerson2.png',
 		food: 'Karjalanpiirakka, Kalakukko',
@@ -331,6 +435,14 @@ export default [
 		flag: '/assets/flags/france.png',
 		capitalCity: 'Paris',
 		language: 'French',
+		facts: {
+			'Religion' : 'Predominantly Christianity',
+			'Population' : 'Around 67 million',
+			'Famous for' : `France is renowned for iconic landmarks like the Eiffel Tower, Louvre Museum, and Notre-Dame Cathedral, as well as its contributions to fashion, literature, and philosophy.`,
+			'Most famous sport' : 'Football',
+			'Motto/expression' : `Liberty, Equality, Fraternity`
+		},
+		factsImg: '/assets/factsBook/factsBook.png',
 		famousPeople: 'Napoleon Bonaparte (political leader), Zinedine Zidane (footballer), Claude Monet (painer)',
 		peopleImg: '/assets/general/famousPerson3.png',
 		food: 'Croissant',
@@ -356,6 +468,14 @@ export default [
 		flag: '/assets/flags/germany.png',
 		capitalCity: 'Berlin',
 		language: 'German',
+		facts: {
+			'Religion' : 'Christianity (predominantly Protestantism and Catholicism)',
+			'Population' : 'Around 83 million',
+			'Famous for' : `Germany is renowned for its precision engineering and automotive industry, producing iconic automobile brands such as Volkswagen, BMW, Mercedes-Benz, and Audi.`,
+			'Most famous sport' : 'Football',
+			'Motto/expression' : `Unity and Justice and Freedom`
+		},
+		factsImg: '/assets/factsBook/factsBook1.png',
 		famousPeople: 'Johann Wolfgang von Goethe (writer), Ludwig van Beethoven (composer), Angela Merkel (politician)',
 		peopleImg: '/assets/general/famousPerson4.png',
 		food: 'Bratwurst, Sauerkraut',
@@ -381,6 +501,14 @@ export default [
 		flag: '/assets/flags/greece.png',
 		capitalCity: 'Athens',
 		language: 'Greek',
+		facts: {
+			'Religion' : 'Greek Orthodoxy',
+			'Population' : 'Around 10.4 million',
+			'Famous for' : `Greece is famous for its rich history, including being the birthplace of democracy, Western philosophy, literature, and drama.`,
+			'Most famous sport' : 'Football',
+			'Motto/expression' : `Freedom or Death`
+		},
+		factsImg: '/assets/factsBook/factsBook2.png',
 		famousPeople: 'Socrates (philosopher), Aristotle (philosopher), Alexander the Great (military leader)',
 		peopleImg: '/assets/general/famousPerson.png',
 		food: 'Moussaka, Gyro',
@@ -406,6 +534,14 @@ export default [
 		flag: '/assets/flags/hungary.png',
 		capitalCity: 'Budapest',
 		language: 'Hungarian',
+		facts: {
+			'Religion' : 'Predominantly Christianity, with the majority being Roman Catholic',
+			'Population' : 'Around 9.7 million',
+			'Famous for' : `Hungary is particularly famous for its rich musical heritage and contributions to classical music. The country has produced several renowned composers, including Franz Liszt, Béla Bartók, and Zoltán Kodály.`,
+			'Most famous sport' : 'Football',
+			'Motto/expression' : `With God for Fatherland and Liberty`
+		},
+		factsImg: '/assets/factsBook/factsBook3.png',
 		famousPeople: 'Ferenc Puskás (footballer), Béla Bartók (composer), Imre Kertész (writer)',
 		peopleImg: '/assets/general/famousPerson1.png',
 		food: 'Goulash, Lángos',
@@ -431,6 +567,14 @@ export default [
 		flag: '/assets/flags/iceland.png',
 		capitalCity: 'Reykjavik',
 		language: 'Icelandic',
+		facts: {
+			'Religion' : 'Predominantly Christianity, with the Evangelical Lutheran Church being the largest denomination',
+			'Population' : 'Around 350,000',
+			'Famous for' : `Iceland is famous for its stunning natural landscapes, including glaciers, geysers, hot springs, and volcanoes. It's also known for its rich Viking history and culture.`,
+			'Most famous sport' : 'Football',
+			'Motto/expression' : `It will all work out`
+		},
+		factsImg: '/assets/factsBook/factsBook.png',
 		famousPeople: 'Björk (singer), Halldór Laxness (writer), Jóhanna Sigurðardóttir (politician)',
 		peopleImg: '/assets/general/famousPerson2.png',
 		food: 'Hangikjöt, Skyr',
@@ -456,6 +600,14 @@ export default [
 		flag: '/assets/flags/ireland.png',
 		capitalCity: 'Dublin',
 		language: 'Irish (Gaelic), English',
+		facts: {
+			'Religion' : 'Predominantly Roman Catholic',
+			'Population' : 'Around 4.9 million',
+			'Famous for' : `Ireland is famous for its traditional music and Guiness beer.`,
+			'Most famous sport' : 'Gaelic football and hurling',
+			'Motto/expression' : `Ireland Forever`
+		},
+		factsImg: '/assets/factsBook/factsBook1.png',
 		famousPeople: 'Michael Collins (politician), James Joyce (writer), Bono (singer)',
 		peopleImg: '/assets/general/famousPerson3.png',
 		food: 'Irish Stew, Soda Bread',
@@ -481,6 +633,14 @@ export default [
 		flag: '/assets/flags/italy.png',
 		capitalCity: 'Rome',
 		language: 'Italian',
+		facts: {
+			'Religion' : 'Predominantly Roman Catholic',
+			'Population' : 'Around 60 million',
+			'Famous for' : `Italy is known for its extraordinary architecture including landmarks such as Colosseum in Rome, the Leaning Tower of Pisa, the Duomo di Milano (Milan Cathedral), and the canals of Venice.`,
+			'Most famous sport' : 'Football',
+			'Motto/expression' : `No official motto/expression`
+		},
+		factsImg: '/assets/factsBook/factsBook2.png',
 		famousPeople: 'Leonardo da Vinci (artist), Michelangelo (artist), Galileo Galilei (scientist)',
 		peopleImg: '/assets/general/famousPerson4.png',
 		food: 'Pizza, Pasta',
@@ -506,6 +666,14 @@ export default [
 		flag: '/assets/flags/kosovo.png',
 		capitalCity: 'Pristina',
 		language: 'Albanian, Serbian',
+		facts: {
+			'Religion' : 'Islam, Christianity',
+			'Population' : 'Around 1.8 million',
+			'Famous for' : ` It's famous for its centuries-old monasteries, such as the Decani Monastery and Gracanica Monastery, which are UNESCO World Heritage Sites.`,
+			'Most famous sport' : 'Football',
+			'Motto/expression' : `Dardania Forever`
+		},
+		factsImg: '/assets/factsBook/factsBook3.png',
 		famousPeople: 'Mother Teresa (humanitarian), Ibrahim Rugova (politician), Rita Ora (singer)',
 		peopleImg: '/assets/general/famousPerson.png',
 		food: 'Flija, Burek',
@@ -531,6 +699,14 @@ export default [
 		flag: '/assets/flags/latvia.png',
 		capitalCity: 'Riga',
 		language: 'Latvian',
+		facts: {
+			'Religion' : 'Predominantly Christianity, with Lutheran and Roman Catholic being the most practiced denominations',
+			'Population' : 'Around 1.9 million',
+			'Famous for' : `Lativa is known for its charming historic cities like Riga, known for its well-preserved medieval architecture and Art Nouveau buildings.`,
+			'Most famous sport' : 'Ice hockey, basketball',
+			'Motto/expression' : `God, bless Latvia!`
+		},
+		factsImg: '/assets/factsBook/factsBook.png',
 		famousPeople: 'Kārlis Ulmanis (politician), Mikhail Baryshnikov (dancer), Jānis Kārkliņš (composer)',
 		peopleImg: '/assets/general/famousPerson1.png',
 		food: 'Grey Peas with Bacon, Rye Bread',
@@ -556,6 +732,14 @@ export default [
 		flag: '/assets/flags/lithuania.png',
 		capitalCity: 'Vilnius',
 		language: 'Lithuanian',
+		facts: {
+			'Religion' : 'Predominantly Christianity, with Roman Catholicism being the most widely practiced denomination.',
+			'Population' : 'Around 2.8 million',
+			'Famous for' : `Lithuania is renowned for its scenic landscapes, including the Curonian Spit, a UNESCO World Heritage Site.`,
+			'Most famous sport' : 'Basketball',
+			'Motto/expression' : `Let Unity Blossom`
+		},
+		factsImg: '/assets/factsBook/factsBook1.png',
 		famousPeople: 'Czeslaw Milosz (poet), Mindaugas (king), Arvydas Sabonis (basketball player)',
 		peopleImg: '/assets/general/famousPerson2.png',
 		food: 'Cepelinai, Kugelis',
@@ -581,6 +765,14 @@ export default [
 		flag: '/assets/flags/liechtenstein.png',
 		capitalCity: 'Vaduz',
 		language: 'German',
+		facts: {
+			'Religion' : ' Predominantly Roman Catholicism.',
+			'Population' : 'Around 38,000',
+			'Famous for' : `Liechtenstein is known for being one of the world's smallest and wealthiest countries, with a strong financial services sector.`,
+			'Most famous sport' : 'Alpine skiing',
+			'Motto/expression' : `Let Unity Blossom`
+		},
+		factsImg: '/assets/factsBook/factsBook2.png',
 		famousPeople: 'Hans-Adam II (prince), Tina Weirather (skier), Marco Büchel (skier)',
 		peopleImg: '/assets/general/famousPerson3.png',
 		food: 'Käsknöpfle, Rösti',
@@ -606,6 +798,14 @@ export default [
 		flag: '/assets/flags/luxembourg.png',
 		capitalCity: 'Luxembourg City',
 		language: 'Luxembourgish, French, German',
+		facts: {
+			'Religion' : 'Predominantly Roman Catholicism.',
+			'Population' : 'Around 625,000 ',
+			'Famous for' : `Luxembourg is known for its status as one of the founding members of the European Union and for being a major financial center.`,
+			'Most famous sport' : 'Football ',
+			'Motto/expression' : `We want to remain what we are`
+		},
+		factsImg: '/assets/factsBook/factsBook2.png',
 		famousPeople:
 			'Grand Duke Henri (royalty), Charlotte (Grand Duchess of Luxembourg), Jean-Claude Juncker (politician)',
 		peopleImg: '/assets/general/famousPerson4.png',
@@ -632,6 +832,14 @@ export default [
 		flag: '/assets/flags/malta.png',
 		capitalCity: 'Valletta',
 		language: 'Maltese, English',
+		facts: {
+			'Religion' : 'Predominantly Roman Catholicism.',
+			'Population' : 'Around 514,000 ',
+			'Famous for' : `Malta is known for the fortified city of Valletta, a UNESCO World Heritage Site.`,
+			'Most famous sport' : 'Football ',
+			'Motto/expression' : `No official motto/expression`
+		},
+		factsImg: '/assets/factsBook/factsBook.png',
 		famousPeople: 'Dom Mintoff (politician), Joseph Calleia (actor), Dun Karm (poet)',
         peopleImg: '/assets/general/famousPerson.png',
 		food: 'Pastizzi, Rabbit Stew',
@@ -657,6 +865,14 @@ export default [
 		flag: '/assets/flags/moldova.png',
 		capitalCity: 'Chișinău',
 		language: 'Romanian',
+		facts: {
+			'Religion' : ' Predominantly Eastern Orthodox Christianity.',
+			'Population' : 'Around 2.6 million',
+			'Famous for' : `Moldova is known for its wine production, as well as its scenic countryside and historical sites.`,
+			'Most famous sport' : 'Football ',
+			'Motto/expression' : `Our Language is a Treasure`
+		},
+		factsImg: '/assets/factsBook/factsBook2.png',
 		famousPeople: 'Ștefan cel Mare (ruler), Eugen Doga (composer), Natalia Barbu (singer)',
         peopleImg: '/assets/general/famousPerson1.png',
 		food: 'Mămăligă, Plăcinte',
@@ -682,6 +898,14 @@ export default [
 		flag: '/assets/flags/monaco.png',
 		capitalCity: 'Monaco-Ville',
 		language: 'French',
+		facts: {
+			'Religion' : 'Predominantly Roman Catholicism.',
+			'Population' : 'Around 39,000',
+			'Famous for' : `Monaco is famous for its glamorous casinos, luxury yachts, and the prestigious Formula One Monaco Grand Prix.`,
+			'Most famous sport' : 'Formula One racing ',
+			'Motto/expression' : `With God's Help`
+		},
+		factsImg: '/assets/factsBook/factsBook2.png',
 		famousPeople: 'Rainier III (prince), Grace Kelly (actress), Louis II (prince)',
         peopleImg: '/assets/general/famousPerson2.png',
 		food: 'Barbajuan, Stocafi',
@@ -707,6 +931,14 @@ export default [
 		flag: '/assets/flags/montenegro.png',
 		capitalCity: 'Podgorica',
 		language: 'Montenegrin',
+		facts: {
+			'Religion' : 'Predominantly Serbian Orthodox Christianity.',
+			'Population' : 'Around 622,000',
+			'Famous for' : `Montenegro is known for its stunning Adriatic coastline, medieval towns, and rugged mountains`,
+			'Most famous sport' : 'Football',
+			'Motto/expression' : `No official motto/espression`
+		},
+		factsImg: '/assets/factsBook/factsBook3.png',
 		famousPeople: 'Njegoš (poet), Milovan Đilas (politician), Novak Đoković (tennis player)',
         peopleImg: '/assets/general/famousPerson3.png',
 		food: 'Njeguški pršut, Ćevapi',
@@ -732,6 +964,14 @@ export default [
 		flag: '/assets/flags/netherlands.png',
 		capitalCity: 'Amsterdam',
 		language: 'Dutch',
+		facts: {
+			'Religion' : 'Predominantly Serbian Orthodox Christianity.',
+			'Population' : 'Around 17.5 million',
+			'Famous for' : `The Netherlands is famous for its tulip fields, windmills, cycling culture, and progressive social policies.`,
+			'Most famous sport' : 'Football, kickboxing',
+			'Motto/expression' : `I will maintain`
+		},
+		factsImg: '/assets/factsBook/factsBook.png',
 		famousPeople: 'Vincent van Gogh (artist), Anne Frank (diarist), Johan Cruyff (footballer)',
         peopleImg: '/assets/general/famousPerson4.png',
 		food: 'Stroopwafel, Haring',
@@ -757,6 +997,14 @@ export default [
 		flag: '/assets/flags/northMacedonia.png',
 		capitalCity: 'Skopje',
 		language: 'Macedonian',
+		facts: {
+			'Religion' : 'Predominantly Eastern Orthodox Christianity.',
+			'Population' : 'Around 2.1 million',
+			'Famous for' : `North Macedonia is known for its rich cultural heritage, including ancient archaeological sites, traditional music, and cuisine.`,
+			'Most famous sport' : 'Football',
+			'Motto/expression' : `No official motto/expression`
+		},
+		factsImg: '/assets/factsBook/factsBook1.png',
 		famousPeople: 'Mother Teresa (humanitarian), Goce Delčev (revolutionary), Toše Proeski (singer)',
         peopleImg: '/assets/general/famousPerson.png',
 		food: 'Tavče Gravče, Ajvar',
@@ -782,6 +1030,14 @@ export default [
 		flag: '/assets/flags/norway.png',
 		capitalCity: 'Oslo',
 		language: 'Norwegian',
+		facts: {
+			'Religion' : 'Predominantly Christianity (Lutheranism).',
+			'Population' : 'Around 5.4 million',
+			'Famous for' : `Norway is famous for its stunning fjords, Northern Lights, outdoor activities like skiing and hiking, and its high standard of living.`,
+			'Most famous sport' : 'Cross-country skiing and biathlon',
+			'Motto/expression' : `No official motto/expression`
+		},
+		factsImg: '/assets/factsBook/factsBook1.png',
 		famousPeople: 'Edvard Munch (artist), Roald Amundsen (explorer), Henrik Ibsen (playwright)',
         peopleImg: '/assets/general/famousPerson1.png',
 		food: 'Lutefisk, Krumkake',
@@ -807,6 +1063,14 @@ export default [
 		flag: '/assets/flags/poland.png',
 		capitalCity: 'Warsaw',
 		language: 'Polish',
+		facts: {
+			'Religion' : 'Predominantly Christianity (Roman Catholicism).',
+			'Population' : 'Around 38 million',
+			'Famous for' : `Poland is famous for its rich history, medieval architecture, hearty cuisine (including pierogi and kielbasa), and the birthplace of renowned figures like Frédéric Chopin and Marie Curie.`,
+			'Most famous sport' : 'Football ',
+			'Motto/expression' : `God, Honor, Fatherland`
+		},
+		factsImg: '/assets/factsBook/factsBook3.png',
 		famousPeople: 'Frederic Chopin (composer), Marie Curie (scientist), Lech Wałęsa (politician)',
         peopleImg: '/assets/general/famousPerson2.png',
 		food: 'Pierogi, Bigos',
@@ -832,6 +1096,14 @@ export default [
 		flag: '/assets/flags/portugal.png',
 		capitalCity: 'Lisbon',
 		language: 'Portuguese',
+		facts: {
+			'Religion' : 'Predominantly Christianity (Roman Catholicism).',
+			'Population' : 'Around 10.3 million',
+			'Famous for' : ` Portugal is famous for its port wine, and historic landmarks such as the Tower of Belém and the Jerónimos Monastery.`,
+			'Most famous sport' : 'Football ',
+			'Motto/expression' : `This is my beloved happy homeland`
+		},
+		factsImg: '/assets/factsBook/factsBook1.png',
 		famousPeople: 'Vasco da Gama (explorer), Cristiano Ronaldo (footballer), Fernando Pessoa (poet)',
         peopleImg: '/assets/general/famousPerson3.png',
 		food: 'Pastel de nata, Bacalhau',
@@ -857,6 +1129,14 @@ export default [
 		flag: '/assets/flags/romania.png',
 		capitalCity: 'Bucharest',
 		language: 'Romanian',
+		facts: {
+			'Religion' : 'Predominantly Christianity (Eastern Orthodoxy).',
+			'Population' : 'Around 19.2 million',
+			'Famous for' : ` Romania is famous for its stunning castles (including Bran Castle, often associated with Dracula), the Carpathian Mountains, and its contribution to the arts, including the sculptor Constantin Brâncuși.`,
+			'Most famous sport' : 'Football ',
+			'Motto/expression' : `Nothing Without God`
+		},
+		factsImg: '/assets/factsBook/factsBook.png',
 		famousPeople: 'Nadia Comăneci (gymnast), Nicolae Ceaușescu (politician), Mircea Eliade (writer)',
         peopleImg: '/assets/general/famousPerson4.png',
 		food: 'Sarmale, Mămăligă',
@@ -882,6 +1162,14 @@ export default [
 		flag: '/assets/flags/russia.png',
 		capitalCity: 'Moscow',
 		language: 'Russian',
+		facts: {
+			'Religion' : 'Predominantly Christianity (Russian Orthodox).',
+			'Population' : 'Around 145 million',
+			'Famous for' : ` Russia is famous for its vast size, rich history, iconic landmarks like the Kremlin and Saint Basil's Cathedral, cultural contributions in literature, music, and ballet, and its cold climate.`,
+			'Most famous sport' : 'Ice hockey and football',
+			'Motto/expression' : `No official motto/expression`
+		},
+		factsImg: '/assets/factsBook/factsBook1.png',
 		famousPeople: 'Vladimir Putin (politician), Leo Tolstoy (writer), Anna Pavlova (ballerina)',
         peopleImg: '/assets/general/famousPerson.png',
 		food: 'Borscht, Pelmeni',
@@ -907,6 +1195,14 @@ export default [
 		flag: '/assets/flags/sanMarino.png',
 		capitalCity: 'San Marino',
 		language: 'Italian',
+		facts: {
+			'Religion' : 'Predominantly Christianity (Roman Catholicism).',
+			'Population' : 'Around 34,000',
+			'Famous for' : ` San Marino is famous for being one of the world's oldest republics, its historic architecture, and its scenic location atop Mount Titano.`,
+			'Most famous sport' : 'Football',
+			'Motto/expression' : `Liberty`
+		},
+		factsImg: '/assets/factsBook/factsBook2.png',
 		famousPeople: 'Giuseppe Garibaldi (revolutionary), Alex Zanardi (racing driver), Alessandra Perilli (shooter)',
         peopleImg: '/assets/general/famousPerson1.png',
 		food: 'Torta Tre Monti, Cappelletti',
@@ -932,6 +1228,14 @@ export default [
 		flag: '/assets/flags/serbia.png',
 		capitalCity: 'Belgrade',
 		language: 'Serbian',
+		facts: {
+			'Religion' : 'Predominantly Christianity (Serbian Orthodox).',
+			'Population' : 'Around 7 million',
+			'Famous for' : `Serbia is known for its rich history, medieval monasteries, delicious cuisine (including Ćevapi and Ajvar), and the birthplace of Nikola Tesla.`,
+			'Most famous sport' : 'Football and basketball',
+			'Motto/expression' : `Only Unity Saves the Serbs`
+		},
+		factsImg: '/assets/factsBook/factsBook3.png',
 		famousPeople: 'Nikola Tesla (inventor), Novak Djokovic (tennis player), Emir Kusturica (film director)',
         peopleImg: '/assets/general/famousPerson2.png',
 		food: 'Ćevapi, Ajvar',
@@ -957,6 +1261,14 @@ export default [
 		flag: '/assets/flags/slovakia.png',
 		capitalCity: 'Bratislava',
 		language: 'Slovak',
+		facts: {
+			'Religion' : 'Predominantly Christianity (Roman Catholicism).',
+			'Population' : 'Around 5.5 million',
+			'Famous for' : `Slovakia is known for its stunning castles, picturesque mountains, folk traditions, and its contributions to ice hockey.`,
+			'Most famous sport' : 'Ice hockey',
+			'Motto/expression' : `No official motto/expression`
+		},
+		factsImg: '/assets/factsBook/factsBook.png',
 		famousPeople: 'Andy Warhol (artist), Milan Rastislav Štefánik (politician), Peter Sagan (cyclist)',
         peopleImg: '/assets/general/famousPerson3.png',
 		food: 'Bryndzové halušky, Kapustnica',
@@ -982,6 +1294,14 @@ export default [
 		flag: '/assets/flags/slovenia.png',
 		capitalCity: 'Ljubljana',
 		language: 'Slovenian',
+		facts: {
+			'Religion' : 'Predominantly Christianity (Roman Catholicism).',
+			'Population' : 'Around 2.1 million',
+			'Famous for' : `Slovenia is famous for its stunning natural landscapes, including Lake Bled and the Julian Alps, its rich history, and its contributions to sports like skiing.`,
+			'Most famous sport' : 'Skiing and basketball',
+			'Motto/expression' : `Unity, Freedom`
+		},
+		factsImg: '/assets/factsBook/factsBook1.png',
 		famousPeople:
 			'Slavoj Žižek (philosopher), Melania Trump (First Lady of the United States), Goran Dragić (basketball player)',
             peopleImg: '/assets/general/famousPerson4.png',
@@ -1008,6 +1328,14 @@ export default [
 		flag: '/assets/flags/spain.png',
 		capitalCity: 'Madrid',
 		language: 'Spanish',
+		facts: {
+			'Religion' : 'Predominantly Christianity (Roman Catholicism).',
+			'Population' : 'Around 47 million',
+			'Famous for' : `Spain is famous for its vibrant culture, including flamenco music and dance, bullfighting, iconic landmarks like the Sagrada Familia and the Alhambra, and its delicious cuisine such as paella and tapas.`,
+			'Most famous sport' : 'Football ',
+			'Motto/expression' : `No official motto`
+		},
+		factsImg: '/assets/factsBook/factsBook2.png',
 		famousPeople: 'Pablo Picasso (artist), Salvador Dalí (artist), Miguel de Cervantes (writer)',
         peopleImg: '/assets/general/famousPerson.png',
 		food: 'Paella, Tapas',
@@ -1033,6 +1361,14 @@ export default [
 		flag: '/assets/flags/sweden.png',
 		capitalCity: 'Stockholm',
 		language: 'Swedish',
+		facts: {
+			'Religion' : 'Predominantly Christianity (Lutheran).',
+			'Population' : 'Around 10.5 million',
+			'Famous for' : `Sweden is known for its stunning natural landscapes, innovative design, contributions to music (including ABBA), and its welfare state model.`,
+			'Most famous sport' : 'Ice hockey and football ',
+			'Motto/expression' : `No official motto`
+		},
+		factsImg: '/assets/factsBook/factsBook3.png',
 		famousPeople: 'Ingmar Bergman (filmmaker), ABBA (music group), Alfred Nobel (inventor)',
         peopleImg: '/assets/general/famousPerson1.png',
 		food: 'Meatballs, Smörgåsbord',
@@ -1058,6 +1394,14 @@ export default [
 		flag: '/assets/flags/switzerland.png',
 		capitalCity: 'Bern',
 		language: 'German, French, Italian, Romansh',
+		facts: {
+			'Religion' : 'Christianity (Predominantly Roman Catholic and Protestant).',
+			'Population' : 'Around 8.5 million',
+			'Famous for' : `Switzerland is famous for its beautiful Alps, high-quality watches, delicious chocolate, efficient public transportation system, and its policy of neutrality.`,
+			'Most famous sport' : ' Skiing and ice hockey',
+			'Motto/expression' : `One for all, all for one`
+		},
+		factsImg: '/assets/factsBook/factsBook.png',
 		famousPeople: 'Albert Einstein (physicist), Roger Federer (tennis player), Carl Jung (psychiatrist)',
         peopleImg: '/assets/general/famousPerson2.png',
 		food: 'Fondue, Rösti',
@@ -1087,6 +1431,14 @@ export default [
 		flag: '/assets/flags/turkey.png',
 		capitalCity: 'Ankara',
 		language: 'Turkish',
+		facts: {
+			'Religion' : 'Predominantly Islam.',
+			'Population' : 'Around 84 million',
+			'Famous for' : `Turkey is famous for its rich history, including landmarks like the Hagia Sophia and the Blue Mosque, its delicious cuisine (such as kebabs and baklava), and its unique position bridging Europe and Asia.`,
+			'Most famous sport' : 'Football',
+			'Motto/expression' : `Peace at Home, Peace in the World`
+		},
+		factsImg: '/assets/factsBook/factsBook1.png',
 		famousPeople:
 			'Mustafa Kemal Atatürk (founder of the Republic of Turkey), Mevlana Rumi (poet), Ahmet Ertegun (music producer)',
             peopleImg: '/assets/general/famousPerson3.png',
@@ -1113,6 +1465,14 @@ export default [
 		flag: '/assets/flags/ukraine.png',
 		capitalCity: 'Kyiv',
 		language: 'Ukrainian',
+		facts: {
+			'Religion' : 'Predominantly Christianity (Eastern Orthodox).',
+			'Population' : 'Around 41 million',
+			'Famous for' : `Ukraine is famous for its rich culinary heritage, including dishes like borscht and varenyky, as well as its vibrant traditional dance forms, such as the energetic Hopak.`,
+			'Most famous sport' : 'Football',
+			'Motto/expression' : `Glory to Ukraine! Glory to the Heroes!`
+		},
+		factsImg: '/assets/factsBook/factsBook2.png',
 		famousPeople: 'Volodymyr Zelensky (president), Taras Shevchenko (poet), Mila Kunis (actress)',
         peopleImg: '/assets/general/famousPerson4.png',
 		food: 'Borscht, Varenyky',
@@ -1138,6 +1498,14 @@ export default [
 		flag: '/assets/flags/vaticanCity.png',
 		capitalCity: 'Vatican City',
 		language: 'Italian, Latin',
+		facts: {
+			'Religion' : 'Roman Catholicism.',
+			'Population' : 'Around 800',
+			'Famous for' : `Vatican City is famous for being the spiritual and administrative center of the Roman Catholic Church, home to St. Peter's Basilica, the Sistine Chapel, and the Pope.`,
+			'Most famous sport' : 'Vatican City does not have a national sports team, but association football is popular among residents.',
+			'Motto/expression' : `Peace be with you`
+		},
+		factsImg: '/assets/factsBook/factsBook3.png',
 		famousPeople: 'Pope Francis (spiritual leader), Michelangelo (artist), Saint Peter (apostle)',
         peopleImg: '/assets/general/famousPerson.png',
 		food: 'Pizza, Gelato',
@@ -1163,6 +1531,14 @@ export default [
 		flag: '/assets/flags/england.png',
 		capitalCity: 'London',
 		language: 'English',
+		facts: {
+			'Religion' : 'Predominantly Christianity (Anglican, Protestant, Catholic).',
+			'Population' : 'Around 56 million',
+			'Famous for' : `England is famous for its rich history, including landmarks like Big Ben, Buckingham Palace, and the Tower of London. It's also known for its influential literature (Shakespeare, Dickens) and its contributions to music (The Beatles, Rolling Stones).`,
+			'Most famous sport' : 'Football',
+			'Motto/expression' : `God and my right`
+		},
+		factsImg: '/assets/factsBook/factsBook.png',
 		famousPeople: 'William Shakespeare (playwright), Queen Elizabeth II (monarch), Sir Isaac Newton (scientist)',
         peopleImg: '/assets/general/famousPerson1.png',
 		food: 'Fish and Chips, Roast Beef',
@@ -1188,6 +1564,14 @@ export default [
 		flag: '/assets/flags/scotland.png',
 		capitalCity: 'Edinburgh',
 		language: 'English, Scottish Gaelic',
+		facts: {
+			'Religion' : 'Predominantly Christianity (Presbyterian, Anglican, Catholic).',
+			'Population' : 'Around 5.5 million',
+			'Famous for' : `Scotland is famous for its stunning landscapes, including rugged highlands and historic castles like Edinburgh Castle. It's also known for its rich cultural heritage, including kilts, bagpipes, and the Loch Ness Monster legend.`,
+			'Most famous sport' : 'Rugby, ,football',
+			'Motto/expression' : `No one provokes me with impunity`
+		},
+		factsImg: '/assets/factsBook/factsBook1.png',
 		famousPeople: 'Robert Burns (poet), Sir Walter Scott (author), Alexander Graham Bell (inventor)',
         peopleImg: '/assets/general/famousPerson2.png',
 		food: 'Haggis, Shortbread',
@@ -1213,6 +1597,14 @@ export default [
 		flag: '/assets/flags/wales.png',
 		capitalCity: 'Cardiff',
 		language: 'English, Welsh',
+		facts: {
+			'Religion' : 'Predominantly Christianity (Presbyterian, Anglican, Catholic).',
+			'Population' : 'Around 3.1 million',
+			'Famous for' : `Wales is famous for its beautiful landscapes, including mountains, coastlines, and national parks like Snowdonia. It's also known for its Celtic heritage, Welsh language, and castles such as Caernarfon Castle and Conwy Castle.`,
+			'Most famous sport' : 'Rugby',
+			'Motto/expression' : `Wales forever`
+		},
+		factsImg: '/assets/factsBook/factsBook2.png',
 		famousPeople: 'Dylan Thomas (poet), Gareth Bale (footballer), Roald Dahl (author)',
         peopleImg: '/assets/general/famousPerson3.png',
 		food: 'Welsh Cakes, Cawl',
@@ -1238,6 +1630,14 @@ export default [
 		flag: '/assets/flags/northenIreland.png',
 		capitalCity: 'Belfast',
 		language: 'English, Irish, Ulster Scots',
+		facts: {
+			'Religion' : 'Predominantly Christianity (Presbyterian, Anglican, Catholic).',
+			'Population' : 'Around 1.9 million',
+			'Famous for' : `Northern Ireland is famous for its stunning landscapes, including the Giant's Causeway and the Mourne Mountains. It's also known for its troubled history, including the conflict known as "The Troubles," and its cultural contributions in literature, music, and arts.`,
+			'Most famous sport' : 'Gaelic football',
+			'Motto/expression' : `No official Motto/expression.`
+		},
+		factsImg: '/assets/factsBook/factsBook3.png',
 		famousPeople: 'C.S. Lewis (author), George Best (footballer), Liam Neeson (actor)',
         peopleImg: '/assets/general/famousPerson4.png',
 		food: 'Ulster Fry, Soda Bread',
