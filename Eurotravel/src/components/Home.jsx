@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import countries from '../data/countries'
-import Quiz from './Quiz/Quiz'
 
 const Home = () => {
 	const navigate = useNavigate()

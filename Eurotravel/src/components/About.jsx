@@ -86,8 +86,10 @@
 
 import React, { useState } from 'react'
 import countries from '../data/countries'
+import { Link } from 'react-router-dom'
 
 const About = () => {
+	// const { country } = useParams();
 	const [isListVisible, setIsListVisible] = useState(false)
 
 	const toggleList = () => {
@@ -120,8 +122,10 @@ const About = () => {
 				<div className="p-10">
 					<ul className='flex flex-wrap justify-center'>
 						{countries.map(country => (
-							<li key={country.id} className='px-2'>
+							<li key={country.country} className='px-2'>
+								<Link to={`/destination/${country.country}`} >
 								<h3>{country.country}</h3>
+								</Link>
 							</li>
 						))}
 					</ul>

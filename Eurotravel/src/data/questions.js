@@ -248,7 +248,7 @@ export default [
 		option2: 'Football',
 		option3: 'Basketball',
 		option4: 'Tennis',
-		ans: 2,
+		ans: 1,
 	},
 	{
 		question: 'Who is a famous person from Denmark?',
